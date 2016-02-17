@@ -16,3 +16,6 @@ import subprocess
 # add some treatments : anonymisation, disfluences, POS
 
 # add treatment to produce several versions of the data (randomize, by speaker, ..)
+
+
+# blblbelbleblebelbelebleb
